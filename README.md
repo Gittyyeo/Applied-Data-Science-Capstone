@@ -13,26 +13,26 @@ Objective
 
 The goals of this project is to:
 
--Predict whether a rocket landing will be successful
--Identify the key factors influencing landing outcomes
--Understand how variables such as payload, orbit, and launch site affect success rates
+- Predict whether a rocket landing will be successful
+- Identify the key factors influencing landing outcomes
+- Understand how variables such as payload, orbit, and launch site affect success rates
 
 
 Dataset
 
 The dataset consists of historical SpaceX launch records, including:
 
--Launch date
--Payload mass
--Orbit type
--Launch site
--Booster version
--Landing outcome
+- Launch date
+- Payload mass
+- Orbit type
+- Launch site
+- Booster version
+- Landing outcome
 
 Data was collected through:
 
--Web scraping (Wikipedia)
--API sources (SpaceX data)
+- Web scraping (Wikipedia)
+- API sources (SpaceX data)
 
 
 Methodology
